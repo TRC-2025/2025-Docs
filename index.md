@@ -1,111 +1,56 @@
-# 🤖 Tekbot Robotics Challenge 2025
+# 📚 Tekbot Robotics Challenge 2025 – Documentation Hub
 
-Welcome to the **Tekbot Robotics Challenge (TRC)** – a thrilling annual robotics competition that pushes teams to design, code, and compete with their very own autonomous or semi-autonomous robots!
-
-![banner](./assets/banner.png)
-
----
-
-## 🚀 Overview
-
-The **Tekbot Robotics Challenge** is a student-organized competition where innovation meets engineering. Teams will build and program robots to complete tasks in a dynamic game arena, facing both technical challenges and real-time strategy.
-
-> **Edition**: 2025  
-> **Organized by**: Tekbot Robotics Association 
----
-
-## 🎯 Objective
-
-The goal is to design a robot that can navigate, interact with the environment, and score the maximum points within the time limit. Tasks will include:
-
-- Obstacle avoidance
-- Target acquisition
-- Item collection or manipulation
-- Real-time communication with other servers
+Welcome to the central documentation hub for the **Tekbot Robotics Challenge (TRC 2025)**.  
+Here you'll find all official guidelines, rules, resources, and direct access to each team's public documentation.
 
 ---
 
-## 👥 Who Can Participate?
+## 📘 Official Documents
 
-- 💡 Open to all tech-minded students
-- 🤖  members per team
-- 🛠️ Any programming language and hardware allowed (within constraints)
-
----
-
-## 🧪 Technical Requirements
-
-Your robot must:
-- Be self-contained or controlled via a remote interface
-- Use onboard sensors or a vision system for autonomy
-- Communicate with a game server over a network (optional)
-- Be safe, stable, and respect arena constraints
-
-> The project involves software (C/C++, Python, ROS, etc.) and hardware (motors, sensors, microcontrollers, etc.)
+| Document                         | Description                                      | Link                     |
+|----------------------------------|--------------------------------------------------|--------------------------|
+| 🏁 Rules & Regulations           | Full competition rules and scoring methodology   | [RULES.md](./RULES.md)  |
+| ⚙️ Arena Specifications          | Dimensions, materials, and interaction zones     | [ARENA.md](./ARENA.md)  |
+| 🧪 Testing & Simulation Guide    | How to use the provided simulation environment   | [SIMULATION.md](./SIMULATION.md) |
+| 📦 Starter Kit Instructions      | How to install and use the provided starter kit  | [starter-kit/README.md](./starter-kit/README.md) |
+| 📋 Submission Guidelines         | Deliverables format and deadlines                | [SUBMISSIONS.md](./SUBMISSIONS.md) |
+| 🧑‍⚖️ Evaluation Criteria         | How your robot and project will be assessed      | [EVALUATION.md](./EVALUATION.md) |
+| 🔌 Networking Protocol           | Communication API and server specs (if any)      | [PROTOCOL.md](./PROTOCOL.md) |
 
 ---
 
-## 📜 Rules & Evaluation
+## 📂 Participating Teams – Documentation Index
 
-Read the full rulebook 👉 [RULES.md](./RULES.md)
+Below is a list of all teams registered for TRC 2025 with links to their public GitHub documentation pages:
 
----
+| Team Name         | Members              | Documentation Link                                |
+|-------------------|----------------------|----------------------------------------------------|
+| JetBot            | Alice, Bob           | [github.com/jetbot-trc/docs](https://github.com/jetbot-trc/docs) |
+| ByteForce         | Charlie, Dana        | [github.com/byteforce-trc/readme](https://github.com/byteforce-trc/readme) |
+| RoboRacers        | Eve, Frank, Grace    | [github.com/roboracers/robot-docs](https://github.com/roboracers/robot-docs) |
+| VoltVikings       | Heidi, Ivan          | [github.com/voltvikings/docs](https://github.com/voltvikings/docs) |
+| TeknoTigers       | Julia, Kevin, Leo    | [github.com/teknotigers/tekbot2025](https://github.com/teknotigers/tekbot2025) |
 
-## 🧰 Getting Started
-
-To help you get started, we provide:
-
-- 🧱 A sample ROS simulation environment
-- 🗺️ Arena layout and specs
-- 🧪 Testing server (if applicable)
-- 📦 Starter kits for newcomers
-
-Check out the [`starter-kit`](./starter-kit/) folder for templates.
+> 🔄 This list will be updated regularly as new teams register and confirm their public GitHub documentation pages.
 
 ---
 
-## 🏆 Awards
+## 💡 Tips for Teams
 
-- 🥇 Best Performing Robot
-- 🥈 Most Innovative Design
-- 🧠 Best AI / Algorithm
-- 👏 Audience Favorite
-
-All finalists will receive certificates and Tekbot merch!
+- Keep your documentation clear and up-to-date.
+- Include hardware schematics, photos, and code explanations.
+- Don’t forget a live demo video or simulation capture!
+- Use markdown headings, code blocks, and diagrams.
 
 ---
 
-## 📅 Timeline
+## 🤝 Questions?
 
-| Date           | Event                             |
-|----------------|------------------------------------|
-| YYYY-MM-DD     | Registration opens                 |
-| YYYY-MM-DD     | Info session + Q&A (on Discord)    |
-| YYYY-MM-DD     | Submission deadline (tech docs)    |
-| YYYY-MM-DD     | Competition Day!                   |
+- Check the [FAQ](./FAQ.md)
+- Contact the organizing team at [contact@tekbot.org](mailto:contact@tekbot.org)
+- Or ask in the [#documentation channel on Discord](https://discord.gg/tekbot)
 
 ---
 
-## 💬 Contact & Community
-
-- 📧 Email: [contact@tekbot.org](mailto:contact@tekbot.org)
-- 💬 Join our [Discord](https://discord.gg/tekbot)
-- 🧠 Browse our [Wiki](./wiki)
-
----
-
-## 🛠 Maintainers
-
-This project is maintained by the [Tekbot Association](https://github.com/tekbot-association) — fostering student innovation through robotics and embedded systems!
-
----
-
-\#TRC2025 \#Tekbot \#RoboticsChallenge
-
-
-
-
-
-# 2025 Teams
-
-- [Team A](https://trc-2025.github.io/2025-Team-A-Docs-Page/)
+Let the robots roll! 🦾  
+**– The Tekbot Organizing Team**
