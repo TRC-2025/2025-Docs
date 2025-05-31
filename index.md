@@ -15,7 +15,6 @@ Here you'll find all official guidelines, rules, resources, and direct access to
 | 📦 Starter Kit Instructions      | How to install and use the provided starter kit  | [starter-kit/README.md](./starter-kit/README.md) |
 | 📋 Submission Guidelines         | Deliverables format and deadlines                | [SUBMISSIONS.md](./SUBMISSIONS.md) |
 | 🧑‍⚖️ Evaluation Criteria         | How your robot and project will be assessed      | [EVALUATION.md](./EVALUATION.md) |
-| 🔌 Networking Protocol           | Communication API and server specs (if any)      | [PROTOCOL.md](./PROTOCOL.md) |
 
 ---
 
@@ -25,11 +24,11 @@ Below is a list of all teams registered for TRC 2025 with links to their public 
 
 | Team Name         | Members              | Documentation Link                                |
 |-------------------|----------------------|----------------------------------------------------|
-| Equipe A          | Alice, Bob           | [github.com/jetbot-trc/docs](https://trc-2025.github.io/2025-Team-A-Docs-Page/) |
-| ByteForce         | Charlie, Dana        | [github.com/byteforce-trc/readme](https://trc-2025.github.io/2025-Team-A-Docs-Page/) |
-| RoboRacers        | Eve, Frank, Grace    | [github.com/roboracers/robot-docs](https://trc-2025.github.io/2025-Team-A-Docs-Page/) |
-| VoltVikings       | Heidi, Ivan          | [github.com/voltvikings/docs](https://trc-2025.github.io/2025-Team-A-Docs-Page/) |
-| TeknoTigers       | Julia, Kevin, Leo    | [github.com/teknotigers/tekbot2025](https://trc-2025.github.io/2025-Team-A-Docs-Page/) |
+| Equipe A          | Alice, Bob           | [https://trc-2025.github.io/2025-Team-A-Docs-Page/](https://trc-2025.github.io/2025-Team-A-Docs-Page/) |
+| Equipe A          | Charlie, Dana        | [https://trc-2025.github.io/2025-Team-A-Docs-Page/](https://trc-2025.github.io/2025-Team-A-Docs-Page/) |
+| Equipe A          | Eve, Frank, Grace    | [https://trc-2025.github.io/2025-Team-A-Docs-Page/](https://trc-2025.github.io/2025-Team-A-Docs-Page/) |
+| Equipe A          | Heidi, Ivan          | [https://trc-2025.github.io/2025-Team-A-Docs-Page/](https://trc-2025.github.io/2025-Team-A-Docs-Page/) |
+| Equipe A          | Julia, Kevin, Leo    | [https://trc-2025.github.io/2025-Team-A-Docs-Page/](https://trc-2025.github.io/2025-Team-A-Docs-Page/) |
 
 > 🔄 This list will be updated regularly as new teams register and confirm their public GitHub documentation pages.
 
@@ -53,4 +52,4 @@ Below is a list of all teams registered for TRC 2025 with links to their public 
 ---
 
 Let the robots roll! 🦾  
-**– The Tekbot Organizing Team**
+**– The Tekbot Robotics Team**
