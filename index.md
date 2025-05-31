@@ -25,11 +25,11 @@ Below is a list of all teams registered for TRC 2025 with links to their public 
 
 | Team Name         | Members              | Documentation Link                                |
 |-------------------|----------------------|----------------------------------------------------|
-| JetBot            | Alice, Bob           | [github.com/jetbot-trc/docs](https://github.com/jetbot-trc/docs) |
-| ByteForce         | Charlie, Dana        | [github.com/byteforce-trc/readme](https://github.com/byteforce-trc/readme) |
-| RoboRacers        | Eve, Frank, Grace    | [github.com/roboracers/robot-docs](https://github.com/roboracers/robot-docs) |
-| VoltVikings       | Heidi, Ivan          | [github.com/voltvikings/docs](https://github.com/voltvikings/docs) |
-| TeknoTigers       | Julia, Kevin, Leo    | [github.com/teknotigers/tekbot2025](https://github.com/teknotigers/tekbot2025) |
+| Equipe A          | Alice, Bob           | [github.com/jetbot-trc/docs](https://trc-2025.github.io/2025-Team-A-Docs-Page/) |
+| ByteForce         | Charlie, Dana        | [github.com/byteforce-trc/readme](https://trc-2025.github.io/2025-Team-A-Docs-Page/) |
+| RoboRacers        | Eve, Frank, Grace    | [github.com/roboracers/robot-docs](https://trc-2025.github.io/2025-Team-A-Docs-Page/) |
+| VoltVikings       | Heidi, Ivan          | [github.com/voltvikings/docs](https://trc-2025.github.io/2025-Team-A-Docs-Page/) |
+| TeknoTigers       | Julia, Kevin, Leo    | [github.com/teknotigers/tekbot2025](https://trc-2025.github.io/2025-Team-A-Docs-Page/) |
 
 > 🔄 This list will be updated regularly as new teams register and confirm their public GitHub documentation pages.
 
@@ -48,7 +48,7 @@ Below is a list of all teams registered for TRC 2025 with links to their public 
 
 - Check the [FAQ](./FAQ.md)
 - Contact the organizing team at [contact@tekbot.org](mailto:contact@tekbot.org)
-- Or ask in the [#documentation channel on Discord](https://discord.gg/tekbot)
+- Or ask in the [#documentation channel on Discord](https://discord.com/channels/1376252948291522610/@home)
 
 ---
 
