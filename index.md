@@ -24,11 +24,11 @@ Below is a list of all teams registered for TRC 2025 with links to their public 
 
 | Team Name         | Members              | Documentation Link                                |
 |-------------------|----------------------|----------------------------------------------------|
-| Equipe A          | Alice, Bob           | [https://trc-2025.github.io/2025-Team-A-Docs-Page/](https://trc-2025.github.io/2025-Team-A-Docs-Page/) |
-| Equipe A          | Charlie, Dana        | [https://trc-2025.github.io/2025-Team-A-Docs-Page/](https://trc-2025.github.io/2025-Team-A-Docs-Page/) |
-| Equipe A          | Eve, Frank, Grace    | [https://trc-2025.github.io/2025-Team-A-Docs-Page/](https://trc-2025.github.io/2025-Team-A-Docs-Page/) |
-| Equipe A          | Heidi, Ivan          | [https://trc-2025.github.io/2025-Team-A-Docs-Page/](https://trc-2025.github.io/2025-Team-A-Docs-Page/) |
-| Equipe A          | Julia, Kevin, Leo    | [https://trc-2025.github.io/2025-Team-A-Docs-Page/](https://trc-2025.github.io/2025-Team-A-Docs-Page/) |
+| Equipe A          | Alice, Bob           | [https://trc-2025.github.io/2025-Team-A-Docs-Page/](https://tekbot-robotics-challenge.github.io/2025-Team-Alpha-Docs/) |
+| Equipe A          | Charlie, Dana        | [https://trc-2025.github.io/2025-Team-A-Docs-Page/](https://tekbot-robotics-challenge.github.io/2025-Team-Alpha-Docs//) |
+| Equipe A          | Eve, Frank, Grace    | [https://trc-2025.github.io/2025-Team-A-Docs-Page/](https://tekbot-robotics-challenge.github.io/2025-Team-Alpha-Docs/) |
+| Equipe A          | Heidi, Ivan          | [https://trc-2025.github.io/2025-Team-A-Docs-Page/](https://tekbot-robotics-challenge.github.io/2025-Team-Alpha-Docs/) |
+| Equipe A          | Julia, Kevin, Leo    | [https://trc-2025.github.io/2025-Team-A-Docs-Page/](https://tekbot-robotics-challenge.github.io/2025-Team-Alpha-Docs/) |
 
 > 🔄 This list will be updated regularly as new teams register and confirm their public GitHub documentation pages.
 
