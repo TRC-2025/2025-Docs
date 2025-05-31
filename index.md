@@ -9,7 +9,7 @@ Here you'll find all official guidelines, rules, resources, and direct access to
 
 | Document                         | Description                                      | Link                     |
 |----------------------------------|--------------------------------------------------|--------------------------|
-| 🏁 Rules & Regulations           | Full competition rules and scoring methodology   | [RULES.md](./RULES.md)  |
+| 🏁 Rules & Regulations           | Full competition rules and scoring methodology   | [RULES.md](Règlement Générale TRC2K25.docx)  |
 | ⚙️ Arena Specifications          | Dimensions, materials, and interaction zones     | [ARENA.md](./ARENA.md)  |
 | 🧪 Testing & Simulation Guide    | How to use the provided simulation environment   | [SIMULATION.md](./SIMULATION.md) |
 | 📦 Starter Kit Instructions      | How to install and use the provided starter kit  | [starter-kit/README.md](./starter-kit/README.md) |
